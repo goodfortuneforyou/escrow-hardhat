@@ -1,5 +1,6 @@
 import { ClipLoader } from 'react-spinners';
 
+
 export default function Spinner({ loading }) {
     return (
         <div className='fixed-container'>
